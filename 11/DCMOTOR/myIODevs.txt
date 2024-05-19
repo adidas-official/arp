@@ -1,0 +1,2 @@
+﻿Push Button 1 wired to pin 10 with values D, M
+DC Motor 1 wired to pins 3, 10, 11 with values F, 0, 

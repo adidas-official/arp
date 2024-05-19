@@ -1,0 +1,1 @@
+﻿Stepper Motor 1 wired to pins A2, A3, 2, 3 with value 100, 0, 0

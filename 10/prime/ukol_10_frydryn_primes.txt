@@ -1,0 +1,2 @@
+﻿Text LCD (D4) 1 wired to pins 2, 3, 4, 5, 7, 6, -1 
+USB Serial 1 wired to pins 1, 0 with value 9600
