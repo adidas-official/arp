@@ -1,4 +1,4 @@
-﻿cs
+﻿en
 auto indent format 1
 auto insert closing-} 0
 auto insert semicolons 0
